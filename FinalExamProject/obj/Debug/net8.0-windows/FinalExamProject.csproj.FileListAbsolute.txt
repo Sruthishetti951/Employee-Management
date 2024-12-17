@@ -1,0 +1,112 @@
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.csproj.AssemblyReference.cache
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\App.g.cs
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject_MarkupCompile.cache
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject_MarkupCompile.lref
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.exe
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.deps.json
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.runtimeconfig.json
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.dll
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.pdb
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.g.resources
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.AssemblyInfoInputs.cache
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.AssemblyInfo.cs
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.csproj.CoreCompileInputs.cache
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExa.E538D9E5.Up2Date
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.dll
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\refint\FinalExamProject.dll
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.pdb
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.genruntimeconfig.cache
+D:\Subjects\Software development techiniques-Practice\Final Exam Project\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\ref\FinalExamProject.dll
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.exe
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.deps.json
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.runtimeconfig.json
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.dll
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.pdb
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.csproj.AssemblyReference.cache
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject_MarkupCompile.cache
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject_MarkupCompile.lref
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.g.resources
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.AssemblyInfoInputs.cache
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.AssemblyInfo.cs
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.csproj.CoreCompileInputs.cache
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExa.E538D9E5.Up2Date
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.dll
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\refint\FinalExamProject.dll
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.pdb
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.genruntimeconfig.cache
+C:\Users\Irajn\Downloads\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\ref\FinalExamProject.dll
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.exe
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.deps.json
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.runtimeconfig.json
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.dll
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.pdb
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.csproj.AssemblyReference.cache
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\App.g.cs
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject_MarkupCompile.cache
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject_MarkupCompile.lref
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.g.resources
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.AssemblyInfoInputs.cache
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.AssemblyInfo.cs
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.csproj.CoreCompileInputs.cache
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExa.E538D9E5.Up2Date
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.dll
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\refint\FinalExamProject.dll
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.pdb
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.genruntimeconfig.cache
+D:\Subjects\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\ref\FinalExamProject.dll
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.exe
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.deps.json
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.runtimeconfig.json
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.dll
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\FinalExamProject.pdb
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.csproj.AssemblyReference.cache
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\App.g.cs
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject_MarkupCompile.cache
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject_MarkupCompile.lref
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.g.resources
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.AssemblyInfoInputs.cache
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.AssemblyInfo.cs
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.csproj.CoreCompileInputs.cache
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExa.E538D9E5.Up2Date
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.dll
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\refint\FinalExamProject.dll
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.pdb
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\FinalExamProject.genruntimeconfig.cache
+D:\Subjects\Sem 1\Software development techiniques-Practice\FinalToSubmit\FinalExamProject\FinalExamProject\FinalExamProject\obj\Debug\net8.0-windows\ref\FinalExamProject.dll
